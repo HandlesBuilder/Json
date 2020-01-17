@@ -2,6 +2,8 @@
 
 [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
 
+[JSON Server Document](https://github.com/typicode/json-server)
+
 [My JSON Server](https://my-json-server.typicode.com/)
 
 ## How to
