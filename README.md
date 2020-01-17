@@ -1,4 +1,4 @@
-# Json
+# JSON Server
 
 [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
 
