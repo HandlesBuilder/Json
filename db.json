@@ -7,5 +7,17 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "lang": {
+    "en": {
+      "person": {
+        "name": "lol"
+      }
+    },
+    "zh-cn": {
+      "person": {
+        "name": "哈哈"
+      }
+    }
   }
 }
