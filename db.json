@@ -1,16 +1,18 @@
 {
-  "en": {
-    "title": "Welcome to react using react-i18next",
-    "description": {
-      "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
-      "part2": "Switch language between english and chinese using buttons above."
-    }
-  },
-  "de": {
-    "title": "欢迎 to react using react-i18next",
-    "description": {
-      "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
-      "part2": "Switch language between english and chinese using buttons above."
+  "qinwm": {
+    "en": {
+      "title": "Welcome to react using react-i18next",
+      "description": {
+        "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
+        "part2": "Switch language between english and chinese using buttons above."
+      }
+    },
+    "de": {
+      "title": "欢迎 to react using react-i18next",
+      "description": {
+        "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
+        "part2": "Switch language between english and chinese using buttons above."
+      }
     }
   }
 }
