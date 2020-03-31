@@ -10,13 +10,8 @@
   },
   "lang": {
     "en": {
-      "person": {
-        "name": "lol"
-      }
-    },
-    "zh-cn": {
-      "person": {
-        "name": "哈哈"
+      "translation": {
+        "react": "Welcome to React"
       }
     }
   }
