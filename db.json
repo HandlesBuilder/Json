@@ -9,12 +9,21 @@
         }
       }
     },
-    "ch": {
+    "zh-CN": {
       "translation": {
         "title": "欢迎 to react using react-i18next",
         "description": {
           "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
-          "part2": "Switch language between english and chinese using buttons above."
+          "part2": "Switch language between english and chinese (zh-CN) using buttons above."
+        }
+      }
+    },
+    "zh": {
+      "translation": {
+        "title": "欢迎 to react using react-i18next",
+        "description": {
+          "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
+          "part2": "Switch language between english and chinese (zh) using buttons above."
         }
       }
     }
