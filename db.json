@@ -9,7 +9,7 @@
         }
       }
     },
-    "zh-cn": {
+    "zh": {
       "translation": {
         "title": "欢迎 to react using react-i18next",
         "description": {
