@@ -12,6 +12,6 @@
 
 2. Create a db.json file
 
-3. Visit [https://my-json-server.typicode.com/\<your-username>/\<your-repo>](https://my-json-server.typicode.com/qinWenMeng/Json) to access your server
+3. Visit [https://my-json-server.typicode.com/\<your-username>/\<your-repo>](https://my-json-server.typicode.com/TserHub/Json) to access your server
 
    **No registration.** Nothing to install.
