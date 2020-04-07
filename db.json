@@ -2,6 +2,7 @@
   "qinwm": {
     "en": {
       "translation": {
+        "Welcome to React": "Welcome to react using react-i18next",
         "title": "Welcome to react using react-i18next",
         "description": {
           "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
@@ -11,6 +12,7 @@
     },
     "zh": {
       "translation": {
+        "Welcome to React": "欢迎使用 react 和 react-i18next",
         "title": "欢迎使用react-i18next",
         "description": {
           "part1": "首先，请编辑<1>src/App.js</1>并保存以重新加载。",
