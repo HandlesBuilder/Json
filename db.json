@@ -20,5 +20,8 @@
         }
       }
     }
+  },
+  "hooks": {
+    name: 'CodeSandbox'
   }
 }
