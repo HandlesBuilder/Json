@@ -23,5 +23,9 @@
   },
   "hooks": {
     "name": "CodeSandbox"
+  },
+  "hwb": {
+    "name": "huwenbei",
+    "description": "憨憨"
   }
 }
